@@ -1,0 +1,7 @@
+Alert ("Программа для сложения чисел");
+let x = prompt("Введите первое число:");
+let y = prompt("Введите второе число:");
+x = parseFloat (x);
+y = parseFloat (y);
+Z = x + y;
+alert ("Результат"+z);
